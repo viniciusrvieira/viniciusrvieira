@@ -8,7 +8,7 @@ Feel free to [message me](mailto:viniciusr.vieira@hotmail.com) or connect with m
 
 ## Technologies :computer:
 
-<a href="https://www.javascript.com/" target="_blank">
+<a href="https://www.javascript.com/">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </a>
 <a href="https://www.python.org/">
