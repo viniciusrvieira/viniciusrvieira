@@ -1,6 +1,6 @@
 # Hey, I'm Vinícius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am an **Electric Engineer** from 🇧🇷,<br>
+I am an **Electrical Engineer** from 🇧🇷,<br>
 Co-Founder and Software Developer (FullStack) at [Muv](https://muvtecnologia.com.br). <br>
 I love to obtain **knowledge** and i'm fascinated with hard **problem solving** at programming.
 
@@ -17,11 +17,8 @@ Feel free to [message me](mailto:viniciusr.vieira@hotmail.com) or connect with m
 <a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </a>
-<a href="https://www.npmjs.com/">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
 </a>
 <a href="https://aws.amazon.com/">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -38,17 +35,11 @@ Feel free to [message me](mailto:viniciusr.vieira@hotmail.com) or connect with m
 <a href="https://jquery.com/">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </a>
-<a href="https://www.cplusplus.com/">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
 </a>
 
 <br>
