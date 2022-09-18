@@ -1,7 +1,7 @@
 # Hey, I'm Vinícius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am an **Electrical Engineer** from 🇧🇷,<br>
-Co-Founder and Software Developer (FullStack) at [Muv](https://muvtecnologia.com.br). <br>
+I am an **Electrical Engineer** from 🇧🇷<br>
+and Software Developer (Full Stack) . <br>
 I love to obtain **knowledge** and i'm fascinated with hard **problem solving** at programming.
 
 Feel free to [message me](mailto:viniciusr.vieira@hotmail.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/vinervieira/)
